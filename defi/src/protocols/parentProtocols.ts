@@ -1890,7 +1890,7 @@ const parentProtocols: IParentProtocol[] = [
     id: "parent#sudoswap",
     name: "SudoSwap",
     url: "https://sudoswap.xyz",
-    description: "The sudoswap AMM is a minimal, gas-efficient AMM protocol for facilitating NFT (ERC721s) to token (ETH or ERC20) swaps using customizable bonding curves",
+    description: "The sudoswap AMM is a minimal, gas-efficient protocol for facilitating NFT to token swaps using customizable bonding curves",
     logo: `${baseIconsUrl}/magpie-xyz.png`,
     gecko_id: "sudoswap",
     cmcId: null,
